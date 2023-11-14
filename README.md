@@ -1,0 +1,2 @@
+# LinkedList-task
+LinkedList assignment
